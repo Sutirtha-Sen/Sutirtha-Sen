@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Sutirtha-Sen
-- 👀 I’m interested in Python 
+- 👀 Hehe boiiii
 
 <!---
 Sutirtha-Sen/Sutirtha-Sen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
